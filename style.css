@@ -1,0 +1,11 @@
+.cameraImage {
+    height: 406px;
+    width: 1400px;
+    object-fit: cover;
+}
+
+.pictures {
+    height: 406px;
+    width: 330px;
+    object-fit: cover;
+}
