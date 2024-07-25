@@ -1,11 +1,3 @@
-/* ------------------------------------------------------------------------
-	This you can edit.
-------------------------------------------------------------------------- */
-
-	/* ----------------------------------
-		Default Theme
-	----------------------------------- */
-
 	div.pp_default .pp_top,
 	div.pp_default .pp_top .pp_middle,
 	div.pp_default .pp_top .pp_left,
@@ -59,11 +51,6 @@
 
 	div.pp_default .pp_loaderIcon { background: url(../images/prettyPhoto/default/loader.gif) center center no-repeat; } /* Loader icon */
 
-	
-	/* ----------------------------------
-		Light Rounded Theme
-	----------------------------------- */
-
 
 	div.light_rounded .pp_top .pp_left { background: url(../images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat; } /* Top left corner */
 	div.light_rounded .pp_top .pp_middle { background: #fff; } /* Top pattern/color */
@@ -99,9 +86,6 @@
 
 	div.light_rounded .pp_loaderIcon { background: url(../images/prettyPhoto/light_rounded/loader.gif) center center no-repeat; } /* Loader icon */
 	
-	/* ----------------------------------
-		Dark Rounded Theme
-	----------------------------------- */
 	
 	div.dark_rounded .pp_top .pp_left { background: url(../images/prettyPhoto/dark_rounded/sprite.png) -88px -53px no-repeat; } /* Top left corner */
 	div.dark_rounded .pp_top .pp_middle { background: url(../images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat; } /* Top pattern/color */
@@ -139,10 +123,6 @@
 	div.dark_rounded .pp_loaderIcon { background: url(../images/prettyPhoto/dark_rounded/loader.gif) center center no-repeat; } /* Loader icon */
 	
 	
-	/* ----------------------------------
-		Dark Square Theme
-	----------------------------------- */
-	
 	div.dark_square .pp_left ,
 	div.dark_square .pp_middle,
 	div.dark_square .pp_right,
@@ -175,10 +155,6 @@
 	div.dark_square .pp_previous:hover { background: url(../images/prettyPhoto/dark_square/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
 
 
-	/* ----------------------------------
-		Light Square Theme
-	----------------------------------- */
-	
 	div.light_square .pp_left ,
 	div.light_square .pp_middle,
 	div.light_square .pp_right,
@@ -208,10 +184,6 @@
 	
 	div.light_square .pp_loaderIcon { background: url(../images/prettyPhoto/light_rounded/loader.gif) center center no-repeat; } /* Loader icon */
 
-
-	/* ----------------------------------
-		Facebook style Theme
-	----------------------------------- */
 	
 	div.facebook .pp_top .pp_left { background: url(../images/prettyPhoto/facebook/sprite.png) -88px -53px no-repeat; } /* Top left corner */
 	div.facebook .pp_top .pp_middle { background: url(../images/prettyPhoto/facebook/contentPatternTop.png) top left repeat-x; } /* Top pattern/color */
@@ -246,11 +218,6 @@
 	div.facebook .pp_bottom .pp_left { background: url(../images/prettyPhoto/facebook/sprite.png) -88px -80px no-repeat; } /* Bottom left corner */
 	div.facebook .pp_bottom .pp_middle { background: url(../images/prettyPhoto/facebook/contentPatternBottom.png) top left repeat-x; } /* Bottom pattern/color */
 	div.facebook .pp_bottom .pp_right { background: url(../images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat; } /* Bottom right corner */
-
-
-/* ------------------------------------------------------------------------
-	DO NOT CHANGE
-------------------------------------------------------------------------- */
 
 	div.pp_pic_holder a:focus { outline:none; }
 
